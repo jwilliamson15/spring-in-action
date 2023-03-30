@@ -1,4 +1,4 @@
-package sia.tacocloud;
+package tacos;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
